@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e9c1447b321c9541a415aec8",
+  "owner": "vrwkasw",
+  "repo": "page-bccccd4f8dd3f3e1f4db04d2",
+  "title": "吉吉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bccccd4f8dd3f3e1f4db04d2",
+      "a": "吉吉云",
+      "b": "",
+      "entity": "吉吉云",
+      "brand": "吉吉云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ae88923281ac7c364fa361dba93952875ce8ea27ac07db3a8f154caa0bdcd88",
+      "content": {
+        "keyword1": "吉吉云",
+        "keyword2": "",
+        "primary_entity": "吉吉云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "吉吉云是提供机场订阅与VPN加速的官方网站，介绍套餐方案、使用场景、配置流程及多平台客户端下载，帮助用户稳定进行网络加速与跨境访问。",
+          "AI_DESCRIPTION": "吉吉云是提供机场订阅与VPN加速的官方网站，介绍套餐方案、使用场景、配置流程及多平台客户端下载，帮助用户稳定进行网络加速与跨境访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F3EB;color:#15281C;font-size:17px;line-height:1.65}a{color:#1A5C38}header,footer{background:#1A5C38;color:#F6F3EB}header a,footer a{color:#E8F5EC} .wrap{max-width:920px;margin:0 auto;padding:14px 16px}header .brand{font-size:1.25rem;font-weight:700;margin:0 0 8px}header nav ul,footer nav ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:10px 16px}h1{font-size:1.7rem;line-height:1.3;margin:12px 0 16px;color:#1A5C38}h2{font-size:1.32rem;color:#1A5C38;border-bottom:2px solid #1A5C38;padding-bottom:6px;margin:28px 0 14px}h3{font-size:1.08rem;margin:12px 0 8px;color:#1E4A30}p{margin:0 0 12px}.grid{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0}.card{flex:1 1 250px;background:#fff;padding:16px;border:1px solid #D0DDD4;border-radius:6px}.card.featured{border:3px solid #1A5C38;background:#EAF3ED}.price{font-size:1.45rem;font-weight:700;color:#1A5C38;margin:4px 0}.btn{display:inline-block;background:#1A5C38;color:#fff;padding:8px 14px;text-decoration:none;border-radius:4px;margin-top:6px}ul{margin:8px 0;padding-left:1.15em}li{margin:4px 0}details{background:#fff;border:1px solid #C5D4C9;margin:0 0 10px;padding:2px 12px 8px;border-radius:4px}summary{padding:10px 0;font-weight:600;color:#1A5C38}.adbox{background:#2A6B46;color:#F6F3EB;padding:12px;margin:12px 0;text-align:center;border-radius:4px}footer h2,footer h3{border:none;color:#F6F3EB;margin-top:16px}footer p{font-size:0.95rem}</style><header><div class=\"wrap\"><p class=\"brand\">吉吉云</p><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main class=\"wrap\"><h1>吉吉云官网 · 机场订阅与 VPN 网络加速服务</h1><p>吉吉云专注高速稳定的网络加速体验，提供机场订阅、多平台客户端与清晰配置流程，帮助用户在跨境办公、流媒体与游戏场景中获得顺畅连接。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"grid\"><div class=\"card\"><p>吉吉云是面向个人与团队的网络加速品牌，核心产品为机场订阅服务。我们维护多地区节点，强调线路质量与可用性，用户可通过一次订阅在 Clash、Shadowrocket、Surge 等客户端中使用。</p><p>服务覆盖日常浏览加速、流媒体解锁以及部分游戏加速需求。套餐按流量与设备数分级，年付可享优惠。本站为吉吉云官方网站，集中展示套餐说明、操作指引与客户端下载信息。</p></div><div class=\"card\"><h3>服务要点</h3><ul><li>自建与优化节点，含普通线路与 IPLC 专线</li><li>支持主流代理协议，订阅一键导入</li><li>基础流媒体到全节点原生解锁（视套餐）</li><li>多设备同时在线，团队版可定制路由</li><li>工单支持，旗舰与团队享优先响应</li></ul></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前公开套餐，流量为每月额度，年付价格已列出。选择后请通过官方渠道完成订阅并获取专属链接。</p><div class=\"grid\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#guide\">查看配置流程</a></p></div><div class=\"card featured\"><h3>旗舰版 · 推荐</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#guide\">查看配置流程</a></p></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#guide\">查看配置流程</a></p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><div class=\"card\"><h3>跨境远程办公</h3><p>访问海外协作平台、云文档与会议系统时保持更稳定的连接，减少中断。团队版可针对出口做路由优化。</p></div><div class=\"card\"><h3>流媒体与内容访问</h3><p>旗舰版提供全节点原生解锁，适合观看国际影视与直播。基础版覆盖常见平台的基础需求。</p></div><div class=\"card\"><h3>游戏加速</h3><p>IPLC 专线用于降低国际服延迟与抖动，适合对连接稳定要求较高的对战与更新下载，请选用游戏向节点。</p></div><div class=\"card\"><h3>学习与资料检索</h3><p>学术数据库、开源社区与在线课程访问更顺畅，适合留学、科研与技术自学。</p></div><div class=\"card\"><h3>出行与多设备</h3><p>笔记本、手机与平板可同时在线，出差时切换节点即可使用，请注意套餐设备上限。</p></div></div></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>吉吉云把配置流程写清楚：完成订阅后，核心是复制订阅链接、导入客户端、选择节点并开启系统代理。以下步骤适配大多数图形界面客户端。</p><h3>第一步：获取订阅</h3><p>在官方购买套餐后，用户中心会显示订阅 URL。请完整复制，不要分享给他人，以免流量被占用或链接被重置。</p><h3>第二步：安装客户端</h3><p>按设备到下方下载区选择软件。Windows 与 macOS 常用 Clash 系图形客户端；Android 可用 Clash Meta 一类应用；iOS 常用 Shadowrocket、Stash 或 Quantumult X。请从可信来源安装。</p><h3>第三步：导入订阅</h3><p>打开客户端，进入配置、订阅或 Profiles，粘贴 URL 并更新。成功后会出现节点列表。部分软件需要指定 Clash 配置类型后再下载。</p><h3>第四步：选择节点并开启代理</h3><p>按延迟或负载挑选节点，开启系统代理或 TUN / 增强模式，让浏览器、会议软件或游戏走隧道。若只需部分流量走代理，使用规则模式。</p><h3>第五步：日常维护</h3><p>定期点击更新订阅以同步节点。某条线路异常时改换备用节点。流量将尽可升级套餐或等待重置。报障时请写明系统、客户端名称与现象。</p><div class=\"card\"><h3>常见客户端提示</h3><ul><li>Clash：导入后确认规则或全局模式，游戏可配合绕过大陆地址的规则。</li><li>Shadowrocket：添加订阅后允许 VPN 配置，按需开启 UDP 转发。</li><li>Surge：使用托管配置，注意策略组与真实 IP 显示是否符合预期。</li></ul></div></section><section id=\"download\"><h2>客户端下载</h2><p>按系统选择入口。本页提供官方网站指引，安装包请以各客户端发布渠道为准，安装后导入吉吉云机场订阅即可作为 VPN 加速器使用。</p><div class=\"grid\"><div class=\"card\"><h3>Windows</h3><p>Clash Verge 等图形客户端，支持系统代理与 TUN，适合桌面办公与下载。</p><p><a class=\"btn\" href=\"#\">Windows 客户端下载</a></p></div><div class=\"card\"><h3>macOS</h3><p>Clash Verge、ClashX Meta 或 Surge，可覆盖 Apple Silicon 与 Intel 机型。</p><p><a class=\"btn\" href=\"#\">macOS 客户端下载</a></p></div><div class=\"card\"><h3>Android</h3><p>Clash Meta for Android 等，建议按应用分流，减少耗电与后台冲突。</p><p><a class=\"btn\" href=\"#\">Android 客户端下载</a></p></div><div class=\"card\"><h3>iOS / iPadOS</h3><p>Shadowrocket、Quantumult X、Stash 等需在商店获取，导入订阅后连接。</p><p><a class=\"btn\" href=\"#\">iOS 使用说明</a></p></div><div class=\"card\"><h3>Linux 与其它</h3><p>clash / mihomo 命令行或图形封装；路由器可使用支持订阅的固件。</p><p><a class=\"btn\" href=\"#\">Linux 相关说明</a></p></div></div></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>吉吉云和普通 VPN 有什么区别？</summary><p>吉吉云以机场订阅提供节点池，可在自选客户端里切换线路并使用规则分流。相比单一封闭 VPN 应用，多设备共享同一订阅更灵活，但受套餐同时在线台数限制。</p></details><details><summary>如何下载并开始使用吉吉云客户端？</summary><p>先了解套餐档位并完成订阅、复制链接，再到客户端下载区按系统获取软件，粘贴订阅并更新节点，选择线路后开启代理。完整步骤见配置流程。</p></details><details><summary>基础版能看流媒体吗？</summary><p>基础版支持解锁基础流媒体，个别平台或地区仍可能要换节点。若需要更完整的原生解锁以及游戏向 IPLC，可考虑旗舰版。</p></details><details><summary>设备同时在线数量如何计算？</summary><p>一般按同时建立连接的终端计算。基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新连接可能失败，可断开闲置设备或升级。</p></details><details><summary>流量用完或网速不稳定怎么办？</summary><p>当月流量用尽需等待重置或升级。速度受本地网络、节点负载和时段影响，可换线、避开高峰或改用 IPLC。持续异常请走工单并附现象说明。</p></details><details><summary>怎样确认这是吉吉云官方网站？</summary><p>请通过您保存的官方入口访问，并核对本页套餐价格与配置说明。不要使用来路不明的代充或所谓破解订阅。客户端也请走可信下载渠道。</p></details><details><summary>是否保存上网内容日志？</summary><p>传输走加密隧道，我们不保存用户访问内容日志。请遵守所在地法律法规，将加速服务用于正当的办公、学习与娱乐，勿用于未授权访问。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"adbox\">广告：吉吉云欢迎渠道与企业合作咨询，请通过用户中心工单联系，本栏为展示位。</div><h2>网站地图</h2><nav aria-label=\"网站地图\"><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav><h3>友情链接</h3><p><a href=\"#\">客户端文档汇总</a> · <a href=\"#\">代理协议说明</a> · <a href=\"#\">网络加速知识</a> · <a href=\"#\">开源工具目录</a></p><p>吉吉云官方网站 · 机场订阅与 VPN 加速器服务</p></div></footer>",
+          "hash": "2ff843d80df75e5144c0c23e4e36a754232bdae1aabaec8d18d9adee21659e9a",
+          "seo": {
+            "title": "吉吉云官方网站 | VPN梯子网络加速与机场客户端下载",
+            "keywords": "吉吉云,吉吉云官网,吉吉云机场,吉吉云VPN,机场订阅,加速器,客户端下载,网络加速,梯子,官方下载",
+            "description": "吉吉云是提供机场订阅与VPN加速的官方网站，介绍套餐方案、使用场景、配置流程及多平台客户端下载，帮助用户稳定进行网络加速与跨境访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "buzyvr94579.cn",
+    "host": "p-17a90f9385.buzyvr94579.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "buzyvr94579.cn",
+      "url": "https://buzyvr94579.cn/",
+      "label": "Element",
+      "apex": "buzyvr94579.cn",
+      "kind": null,
+      "identity": "fjaumcadfkd/page-cb04b3b0e5d8d30ed4c7b811"
+    },
+    {
+      "host": "clhlhl.cn",
+      "url": "https://clhlhl.cn/",
+      "label": "吉吉云",
+      "apex": "clhlhl.cn",
+      "kind": null,
+      "identity": "kdnuyav/page-c8d865aaae0d1ceb2cdf4606"
+    },
+    {
+      "host": "crjihms.cn",
+      "url": "https://crjihms.cn/",
+      "label": "吉吉云",
+      "apex": "crjihms.cn",
+      "kind": null,
+      "identity": "gcwduuufg/page-250b032db232aac8d03c1bfa"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bb71e402a69b0e07024bd4f1b76f18a8f32069ba37370aa8f93fbf7b3979bb1e",
+    "sitemap.xml": "9b2a695e8ccda79467d5885a90a000a8c8129504eda892b4ef8999d6bff8de7d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "44148bcf75caebc70f6db0f898b54982e667d224639c4f5aff85e071fca4dd0a",
+    "robots.txt": "a5cfdb5108561d403c2ec61121bcdc260cd7f5c8ba3e45011044716f9e3a5c67",
+    "0bb7a3acdcf2e39d70a727bd922c6300.txt": "96cd3319e948938387feaaf5950f53165b6a504b3cf8202e4bb5050055ec9191"
+  },
+  "revision": "093bc261bbf58eb55a7e1039a0a0a88d126a1b48dbe416d17cc73915acc24363"
+}
